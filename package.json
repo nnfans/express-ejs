@@ -1,0 +1,13 @@
+{
+  "name": "express-ejs",
+  "version": "1.0.0",
+  "description": "Dead simple expressjs with ejs template engine",
+  "main": "server.js",
+  "repository": "https://github.com/nnfans/express-ejs",
+  "author": "Mohamad Irfan <irfan.management@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
